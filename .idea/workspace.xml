@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a89b0b23-7c89-433c-8100-eca9d40cf139" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j0mAwc66gsboMeMIbq9gnqerbv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vetplusv1_wpa_example" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Escritorio\JOSE CASA\Estudios\CFGS\2CFGS\Disseny d'interficies web\webpack_firts-example\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Escritorio\JOSE CASA\Estudios\CFGS\2CFGS\Disseny d'interficies web\webpack_firts-example\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a89b0b23-7c89-433c-8100-eca9d40cf139" name="Default Changelist" comment="" />
+      <created>1602949244370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602949244370</updated>
+      <workItem from="1602949245591" duration="127000" />
+      <workItem from="1602949448058" duration="11000" />
+      <workItem from="1602949465904" duration="699000" />
+      <workItem from="1603030214940" duration="496000" />
+      <workItem from="1603148372533" duration="192000" />
+      <workItem from="1603148664032" duration="4000" />
+      <workItem from="1603205521703" duration="2434000" />
+      <workItem from="1603207968498" duration="3585000" />
+      <workItem from="1603313026733" duration="852000" />
+      <workItem from="1603894791245" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="348" key="#Notifications" timestamp="1603313665312">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="714" y="348" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1603313665312" />
+    <state x="1121" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603211012440">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1121" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1603211012440" />
+    <state x="1123" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603211406954">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1123" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603211406954" />
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1603894841868">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1603894841868" />
+    <state x="784" y="444" key="Github.CreateGistDialog" timestamp="1603313633625">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="784" y="444" key="Github.CreateGistDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603313633625" />
+    <state x="801" y="422" key="Github.ShareDialog" timestamp="1603313823706">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="801" y="422" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603313823706" />
+    <state x="688" y="222" key="Github.UntrackedFilesDialog" timestamp="1603313848481">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="688" y="222" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603313848481" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1603148490968">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603148490968" />
+    <state x="423" y="275" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1603313497316">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="423" y="275" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1603313497316" />
+  </component>
+</project>
